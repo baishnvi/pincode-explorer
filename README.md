@@ -77,7 +77,8 @@ VITE_API_URL=https://your-backend-url.onrender.com
 
 ## Screenshot
 
-_Add a screenshot of the running app here before submitting._
+<img width="1366" height="768" alt="Screenshot (451)" src="https://github.com/user-attachments/assets/72c6fb85-e116-4290-86a9-45ea0932e56d" />
+
 
 ## Notes
 
